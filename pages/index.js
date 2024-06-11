@@ -102,7 +102,7 @@ export default function Home() {
         <Grid.Row>
           <Grid.Column></Grid.Column>
           <Grid.Column textAlign='center' computer={8} tablet={12} mobile={16}>
-            <a href="https://github.com/lalitjoshi06/tataplay_url" target="_blank" rel="noreferrer">View source code on Github</a>
+            <a href="https://memes.co.in/Uploads/Media/May21/Sun16/552/a389b05e.jpg" target="_blank" rel="noreferrer">View source Code</a>
           </Grid.Column>
           <Grid.Column></Grid.Column>
         </Grid.Row>

@@ -17,5 +17,5 @@ b) npm run dev
 
 This script is only for educational purpose and not for sale. 
 
-##Special thanks to CodeCrafters for their API.##
+##Special thanks to CC for their API.##
 
